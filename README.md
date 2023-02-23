@@ -1,9 +1,9 @@
 # Password-generator
 
-##Description
+## Description
 This is an application that can be used to generate a random password based on selected criteria.
 
-##Usage
+## Usage
 In this application can choose the length of the password and which characters you would like to be included in your password, eg. uppercase, lowercase, number or special characters. Once the characters have been selected, the password will appear in the box.
 Here's a link to the webpage: 
 
